@@ -1,1 +1,1 @@
-# Test Driven experience using mocha verifying Mongo queries/operations.  
+Test Driven experience using mocha verifying Mongo operations.  
